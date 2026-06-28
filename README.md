@@ -69,8 +69,5 @@ The project uses Excel Solver to develop and solve two optimisation models:
 
 ## Repository Contents
 
-```text
-supply-chain-optimisation-lp-milp/
-│
-├── README.md
-└── Supply_Chain_Optimisation_LP_MILP_Report.pdf
+- [Supply Chain Optimisation LP/MILP Report](Supply_Chain_Optimisation_LP_MILP_Report.pdf)
+- README.md
